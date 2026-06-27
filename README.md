@@ -56,7 +56,7 @@ This project analyzes global electric vehicle (EV) market trends, focusing on ad
 
 ## 📷 Dashboard Preview
 
-*(Insert screenshot here)*
+<img width="1286" height="730" alt="image" src="https://github.com/user-attachments/assets/eb7c5c65-a156-4c1e-8b9d-de4321e28f61" />
 
 ---
 
