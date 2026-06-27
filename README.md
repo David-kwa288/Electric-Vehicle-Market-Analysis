@@ -51,7 +51,7 @@ This project analyzes global electric vehicle (EV) market trends, focusing on ad
 * Countries like **Japan and Germany** show high demand pressure, indicating infrastructure may not be scaling with EV adoption
 * EV adoption is influenced by both **price and infrastructure availability**
 * Certain brands demonstrate higher energy efficiency, impacting long-term consumer value
-
+* Countries reflected a high percentile adoption rate, indicating a high comfort level with adopting new automotives 
 ---
 
 ## 📷 Dashboard Preview
